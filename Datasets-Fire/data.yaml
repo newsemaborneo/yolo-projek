@@ -1,0 +1,13 @@
+# path: C:/projek_yolo/Datasets
+
+train: C:/projek_yolo/Datasets-Fire/train/images
+val: C:/projek_yolo/Datasets-Fire/val/images
+
+names: ["fire and smoke"]
+
+roboflow:
+  workspace: newsem
+  project: fire-detection-vkm89
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/newsem/fire-detection-vkm89/dataset/1
