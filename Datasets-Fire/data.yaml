@@ -1,5 +1,3 @@
-# path: C:/projek_yolo/Datasets
-
 train: C:/projek_yolo/Datasets-Fire/train/images
 val: C:/projek_yolo/Datasets-Fire/val/images
 

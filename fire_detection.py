@@ -9,7 +9,7 @@ model.train(
     data="Datasets-Fire/data.yaml",
     epochs=50,
     imgsz=512,
-    batch=8,
+    batch=4,
     device="cpu",
     workers=2  
 )
